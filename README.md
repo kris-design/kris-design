@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @kris-design
-- 👀 Im currently interested in UI design, Email Development, and HTML/CSS development 
+- 👀 Im currently interested in UI Design, Email Development, and HTML/CSS Development 
 - 🌱 I’m currently learning Web Development and UI Design
 - 📫 brightkristina@aol.com
 
 <!---
-kris-design/kris-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kris-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Im a UI designer and HTML developer with a passion for computer science. <br>Shoot me an email or add me on LinkedIn 
+Im a UI Designer and HTML Developer with a passion for computer science. <br>Shoot me an email or add me on LinkedIn 
 
 
 ## 🌐 Socials:
