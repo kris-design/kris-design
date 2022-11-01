@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kris-design
 - 👀 Im currently interested in UI design, Email Development, and HTML/CSS development 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning Web Development and UI Design
 - 📫 brightkristina@aol.com
 
 <!---
